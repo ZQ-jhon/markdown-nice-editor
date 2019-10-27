@@ -4,3 +4,11 @@
 
 - 网站在线排版编辑
 - PWA 排版编辑
+
+## 启动
+
+```shell
+$ yarn
+$ yarn start
+$ yarn build
+```
